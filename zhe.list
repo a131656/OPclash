@@ -1,5 +1,5 @@
 ###这个那个
-ruleset=👀 这个那个,[]DOMAIN-KEYWORD,96779913.com
-ruleset=👀 这个那个,[]DOMAIN-KEYWORD,5lu4.com
-ruleset=👀 这个那个,[]DOMAIN-KEYWORD,zp.com
-ruleset=👀 这个那个,[]DOMAIN-KEYWORD,9773386.xyz
+DOMAIN-KEYWORD,96779913.com
+DOMAIN-KEYWORD,5lu4.com
+DOMAIN-KEYWORD,zp.com
+DOMAIN-KEYWORD,9773386.xyz
