@@ -5,3 +5,4 @@ DOMAIN-KEYWORD,mobilefuse.com
 DOMAIN-KEYWORD,dewrain.life
 IP-CIDR,69.46.75.0/24,no-resolve
 IP-CIDR,205.164.56.0/24,no-resolve
+IP-CIDR,216.172.154.0/24,no-resolve
